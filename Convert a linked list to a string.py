@@ -11,3 +11,4 @@ def stringify(node):
         listik.append(node.data)
     listik.append('None')
     return ' -> '.join(str(i) for i in listik)
+#t
